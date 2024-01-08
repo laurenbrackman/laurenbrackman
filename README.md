@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lauren 👋
 
 <!--
 **laurenbrackman/laurenbrackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on full-stack development
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: lauren.g.brackman@gmail.com
