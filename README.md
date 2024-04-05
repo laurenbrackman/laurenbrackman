@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 👟 I am passionate about running, rock climbing, coffee, and going on walks with my husband
 - 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning Figma to React
+- 🌱 I’m currently learning Cloudflare
 - 📫 How to reach me: lgbrackman@gmail.com
