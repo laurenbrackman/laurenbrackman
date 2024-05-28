@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👟 I am passionate about running, rock climbing, coffee, and going on walks with my husband
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning Cloudflare
+- 👟 I am passionate about running, rock climbing, coffee, christian ministries, and small businesses
+- 🔭 I’m currently working on Webflow Design and Development
 - 📫 How to reach me: lgbrackman@gmail.com
