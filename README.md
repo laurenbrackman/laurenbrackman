@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👟 I am passionate about running, rock climbing, coffee, christian ministries, and small businesses
-- 🔭 I’m currently working on Webflow Design and Development
+- 🔭 I’m currently working on C# and MonoGame development
 - 📫 How to reach me: lgbrackman@gmail.com
